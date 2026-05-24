@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Half Drunk, Fully Missing You
+
+This log tracks the cryptographic history and versioning for the song **Half Drunk, Fully Missing You** (half-drunk-fully-missing-you).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-24T06:07:06.398354 | `v1` | `fd74fe87df9558bbbbe6cbb8a8a14953ab89e90adb53cffbb2783bec943c80e0` | `f8419faee8957fcea8fdfb86fdd0239cb1bc3c81afa3df31c58fe35fa7d2f6c8` | `2026-05-24_half-drunk-fully-missing-you-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
