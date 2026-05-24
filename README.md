@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I got a bourbon in my hand and your taste on my lips
+> Remembering the gentle sway of your midnight hips
+> I am half drunk, honey, but my mind is so clear
+> I am fully missing you, wishing you were right here
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
